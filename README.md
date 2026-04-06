@@ -1,4 +1,4 @@
-# Emma - Apartment Website
+# Serendib - Apartment Website
 
 A modern apartment showcase website built with HTML and Tailwind CSS.
 
